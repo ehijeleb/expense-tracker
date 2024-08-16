@@ -37,7 +37,11 @@ git clone https://github.com/ehijeleb/expense-tracker.git
 cd YOUR_REPOSITORY_NAME
 ```
 
-3. Open 'index.html' in your web browser to  view the app
+3. Run react application
+
+'''
+npm start
+'''
 
 ## Project Structure 
 
